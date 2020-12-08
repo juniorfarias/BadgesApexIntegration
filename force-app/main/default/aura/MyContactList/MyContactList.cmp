@@ -13,4 +13,4 @@
         <!-- Contact list goes here -->
         <lightning:datatable data="{! v.Contacts }" columns="{! v.Columns }" keyField="Id" hideCheckboxColumn="true"/>
     </lightning:card>
-</aura:component>	
+</aura:component>
