@@ -36,3 +36,10 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+.DS_Store
+.sfdx
+.project
+.salesforce
+.settings
+node_modules
+.idea
